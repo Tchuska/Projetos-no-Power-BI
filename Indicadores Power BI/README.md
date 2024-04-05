@@ -14,5 +14,5 @@ Na terceira aba, temos o total de chamados, juntamente com suas criticidades, se
 Na mesma aba, temos um gráfico no qual mostra as quantidades de chamados por dia durante o mês, mostrando as altas de chamados. <br/>
 Na quarta e última aba, temos os fechamentos de todas as unidades, juntamente com suas responsabilidades. Também mostra a direita um resumo da quantidade de chamados por unidade no mês atual da apresentação e nos dois meses anteriores, para identificar recorrência em alguma unidade. <br/> <br/>
 
-Segue abaixo o link para interação com o Dashboard: <br/>
-https://app.powerbi.com/view?r=eyJrIjoiZTczOWJlMmQtNGFkMS00ZWYyLTk3MDktYzVlYmY2NWRlMWRhIiwidCI6IjU5Yzg5N2IzLWQ2YjktNDU0MC05YTc2LTg3NWFhYzkxZjFhZSJ9
+Clique no texto abaixo para interação com o Dashboard: <br/>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZTczOWJlMmQtNGFkMS00ZWYyLTk3MDktYzVlYmY2NWRlMWRhIiwidCI6IjU5Yzg5N2IzLWQ2YjktNDU0MC05YTc2LTg3NWFhYzkxZjFhZSJ9"> Dashboard </a>
