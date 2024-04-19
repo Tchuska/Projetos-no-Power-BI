@@ -20,5 +20,3 @@ Os desafios do Dashboard da aula foram:
 <br/>
 Clique no texto abaixo para interação com o Dashboard: <br/>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiY2M1NmQ2MDMtZGQ1MS00ZDEyLWJmZjYtMzYwYjQyZmVhNDU4IiwidCI6IjU5Yzg5N2IzLWQ2YjktNDU0MC05YTc2LTg3NWFhYzkxZjFhZSJ9"> Dashboard </a>
-
-<iframe title="Dashboard de resultados" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2M1NmQ2MDMtZGQ1MS00ZDEyLWJmZjYtMzYwYjQyZmVhNDU4IiwidCI6IjU5Yzg5N2IzLWQ2YjktNDU0MC05YTc2LTg3NWFhYzkxZjFhZSJ9" frameborder="0" allowFullScreen="true"></iframe>
