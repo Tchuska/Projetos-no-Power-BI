@@ -18,5 +18,7 @@ Os desafios do Dashboard da aula foram:
 - Apresente um indicador que compare a receita com a respectiva meta, de forma que seja possível analisar por vendedor, período e produto.
 <br/>
 <br/>
-Clique no texto abaixo para interação com o Dashboard: <br/>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiY2M1NmQ2MDMtZGQ1MS00ZDEyLWJmZjYtMzYwYjQyZmVhNDU4IiwidCI6IjU5Yzg5N2IzLWQ2YjktNDU0MC05YTc2LTg3NWFhYzkxZjFhZSJ9"> Dashboard </a>
+Clique na imagem do Dashboard para interagir com o mesmo via Power BI. <br/>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiY2M1NmQ2MDMtZGQ1MS00ZDEyLWJmZjYtMzYwYjQyZmVhNDU4IiwidCI6IjU5Yzg5N2IzLWQ2YjktNDU0MC05YTc2LTg3NWFhYzkxZjFhZSJ9">
+    <img src="https://i.imgur.com/GprmIfu.png" />
+</a>
