@@ -14,5 +14,18 @@ Na terceira aba, temos o total de chamados, juntamente com suas criticidades, se
 Na mesma aba, temos um gráfico no qual mostra as quantidades de chamados por dia durante o mês, mostrando as altas de chamados. <br/>
 Na quarta e última aba, temos os fechamentos de todas as unidades, juntamente com suas responsabilidades. Também mostra a direita um resumo da quantidade de chamados por unidade no mês atual da apresentação e nos dois meses anteriores, para identificar recorrência em alguma unidade. <br/> <br/>
 
-Clique no texto abaixo para interação com o Dashboard: <br/>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZGNhOGJkZmItZGMwYy00MmU2LTg0ZGMtOGJhYWExZWYzMGM3IiwidCI6IjU5Yzg5N2IzLWQ2YjktNDU0MC05YTc2LTg3NWFhYzkxZjFhZSJ9"> Dashboard </a>
+Clique na imagem do Dashboard para interagir com o mesmo via Power BI. <br/>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZGNhOGJkZmItZGMwYy00MmU2LTg0ZGMtOGJhYWExZWYzMGM3IiwidCI6IjU5Yzg5N2IzLWQ2YjktNDU0MC05YTc2LTg3NWFhYzkxZjFhZSJ9">
+    <img src="https://i.imgur.com/emvbXL0.png" />
+</a> <br/>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZGNhOGJkZmItZGMwYy00MmU2LTg0ZGMtOGJhYWExZWYzMGM3IiwidCI6IjU5Yzg5N2IzLWQ2YjktNDU0MC05YTc2LTg3NWFhYzkxZjFhZSJ9">
+    <img src="https://i.imgur.com/HGlTQuc.png" />
+</a>
+<br/>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZGNhOGJkZmItZGMwYy00MmU2LTg0ZGMtOGJhYWExZWYzMGM3IiwidCI6IjU5Yzg5N2IzLWQ2YjktNDU0MC05YTc2LTg3NWFhYzkxZjFhZSJ9">
+    <img src="https://i.imgur.com/2kHkTv4.png" />
+</a>
+<br/>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZGNhOGJkZmItZGMwYy00MmU2LTg0ZGMtOGJhYWExZWYzMGM3IiwidCI6IjU5Yzg5N2IzLWQ2YjktNDU0MC05YTc2LTg3NWFhYzkxZjFhZSJ9">
+    <img src="https://i.imgur.com/7nMXK5H.png" />
+</a>
