@@ -18,5 +18,8 @@ Os tópicos abordados foram: <br/>
 diversas.
 <br/>
 <br/>
-Clique no texto abaixo para interação com o Dashboard: <br/>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiODNiMzVjYzUtMWIyOS00NTAxLTgxN2ItY2UxZTMzOTM4NGZlIiwidCI6IjU5Yzg5N2IzLWQ2YjktNDU0MC05YTc2LTg3NWFhYzkxZjFhZSJ9"> Dashboard </a>
+Clique na imagem do Dashboard para interagir com o mesmo via Power BI. <br/>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiODNiMzVjYzUtMWIyOS00NTAxLTgxN2ItY2UxZTMzOTM4NGZlIiwidCI6IjU5Yzg5N2IzLWQ2YjktNDU0MC05YTc2LTg3NWFhYzkxZjFhZSJ9">
+    <img src="https://i.imgur.com/QC3aaya.png" /> <br/>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiODNiMzVjYzUtMWIyOS00NTAxLTgxN2ItY2UxZTMzOTM4NGZlIiwidCI6IjU5Yzg5N2IzLWQ2YjktNDU0MC05YTc2LTg3NWFhYzkxZjFhZSJ9">
+    <img src="https://i.imgur.com/oj6d5e6.png" />
