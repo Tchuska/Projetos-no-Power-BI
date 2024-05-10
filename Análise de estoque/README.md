@@ -10,5 +10,6 @@ Foi o meu primeiro Dashboard do Curso Power BI da Simplifica Treinamentos. Os t�
 - Permita a interação entre as diversas informações, com o intuito de realização de análises diversas.
 <br/>
 <br/>
-Clique no texto abaixo para interação com o Dashboard: <br/>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZTM3NzM3ZGItODcwOS00N2NkLWIyMTAtY2FkYmQ2MDRmNDM0IiwidCI6IjU5Yzg5N2IzLWQ2YjktNDU0MC05YTc2LTg3NWFhYzkxZjFhZSJ9"> Dashboard </a>
+Clique na imagem do Dashboard para interagir com o mesmo via Power BI. <br/>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZTM3NzM3ZGItODcwOS00N2NkLWIyMTAtY2FkYmQ2MDRmNDM0IiwidCI6IjU5Yzg5N2IzLWQ2YjktNDU0MC05YTc2LTg3NWFhYzkxZjFhZSJ9">
+    <img src="https://i.imgur.com/wwKie2t.png" />
